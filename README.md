@@ -1,0 +1,2 @@
+# tic_tac_toe_project
+ The Tic-Tac-Toe game is a two-player game played on a 3x3 grid. The players take turns marking a square with their respective symbols (usually 'X' and 'O') until one player achieves three of their symbols in a row, column, or diagonal, or the grid is full (resulting in a draw).  Technology Used: Python: Programming language used for game logic and interaction. Tkinter: Python's standard GUI library used for creating the graphical interface.
